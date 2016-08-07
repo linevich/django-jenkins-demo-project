@@ -1,0 +1,6 @@
+-r requirements.txt
+django-jenkins
+django-db-email-backend
+coverage
+pyflakes
+tblib
